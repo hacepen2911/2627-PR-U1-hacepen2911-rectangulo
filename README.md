@@ -32,5 +32,4 @@ Puedes suponer que las entradas tienen un formato numérico válido.
 - Gestiona la entrada y la salida en `main()`; las funciones auxiliares devuelven sus resultados con `return`.
 - Incluye la guarda de ejecución.
 - Entrega un repositorio PÚBLICO con el nombre `2627-PR-U1-usarioPasen-rectangulo` y tu solución.
-
-**[Volver](README.md)**
+- 
